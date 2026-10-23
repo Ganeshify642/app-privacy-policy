@@ -154,7 +154,6 @@ We may update this Privacy Policy when Shotory's features, third-party services,
 
 For privacy questions or concerns about Shotory, contact:
 
-**Developer:** [REPLACE WITH THE DEVELOPER OR COMPANY NAME USED ON GOOGLE PLAY]  
-**Email:** [REPLACE WITH YOUR PRIVACY OR SUPPORT EMAIL ADDRESS]
+**Email:** ganeshify6420@gmail.com
 
 Because Shotory stores screenshot content and organization data locally, include the device model, Android version, and app version when reporting a technical privacy issue, but do not email sensitive screenshots, OCR text, passwords, or financial information.

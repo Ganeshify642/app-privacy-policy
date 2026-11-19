@@ -34,7 +34,7 @@ When advertising is remotely enabled, the Game uses **Google Mobile Ads (AdMob)*
 - diagnostics, crash, performance, security, and fraud-prevention information; and
 - ad impressions, clicks, reward events, and other interactions.
 
-Because the Game is intended for a general audience that includes children, we configure all ad requests as **child-directed**, **non-personalized**, and limited to a **general-audience content rating**. These settings are intended to limit interest-based advertising and the use of certain identifiers. Google remains an independent provider and processes information under its own terms and policies.
+Google may use this information, including your device's advertising identifier, to show **personalized (interest-based) ads**, measure ad performance, limit how often you see an ad, and prevent fraud. In the European Economic Area, the United Kingdom, Switzerland, and other regions where consent is required, personalized ads are shown only after you give consent through the privacy message described in Section 5; otherwise Google may serve non-personalized ads. Ads are limited to content suitable for teens and older. Google remains an independent provider and processes information under its own terms and policies.
 
 Learn more:
 
@@ -48,7 +48,7 @@ The Game contacts a Google Apps Script endpoint to retrieve whether each adverti
 
 ## 5. Consent and Privacy Choices
 
-Where required, the Game uses Google's User Messaging Platform to obtain or manage advertising privacy choices. The **Privacy settings** option in the Game's Settings screen lets you open available Google privacy choices. Some options may not appear when they are not required for your region or age treatment.
+Where required, the Game uses Google's User Messaging Platform to obtain or manage advertising privacy choices. The **Privacy settings** option in the Game's Settings screen lets you open available Google privacy choices. You can change or withdraw your consent at any time from that option. Some options may not appear when they are not required for your region.
 
 You can also:
 
@@ -61,9 +61,9 @@ Depending on where you live, you may have rights to access, correct, delete, res
 
 ## 6. Children's Privacy
 
-The Game is designed for a general audience and may be used by children. It does not contain account registration and we do not knowingly ask children to submit personal information to Ganeshify. Advertising is configured for child-directed treatment for every user.
+The Game is intended for users aged **13 and older** and is not directed to children under 13 (or the higher minimum age required in your country). We do not knowingly collect personal information from children, and the Game does not contain account registration.
 
-If you are a parent or legal guardian and believe a child has provided personal information directly to us, contact us. We will investigate and delete the information when appropriate. Parents and guardians should supervise children's device and internet use.
+If you are a parent or legal guardian and believe a child under 13 has used the Game or provided personal information, contact us. We will investigate and delete the information when appropriate. Parents and guardians should supervise children's device and internet use.
 
 ## 7. How Information Is Shared
 

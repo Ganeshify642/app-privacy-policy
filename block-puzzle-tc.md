@@ -9,7 +9,7 @@ These Terms and Conditions (**“Terms”**) govern your use of **Block Puzzle: 
 
 By downloading, installing, or using the Game, you agree to these Terms and our [Privacy Policy](https://ganeshify642.github.io/app-privacy-policy/block-puzzle). If you do not agree, do not install or use the Game.
 
-If you are below the age at which you can enter a binding contract where you live, your parent or legal guardian must review and accept these Terms for you. A parent or guardian who permits a child to use the Game is responsible for supervising that use.
+The Game is intended for users aged 13 and older. If you are below the age at which you can enter a binding contract where you live, your parent or legal guardian must review and accept these Terms for you. A parent or guardian who permits a child to use the Game is responsible for supervising that use.
 
 ## 2. License to Use the Game
 
